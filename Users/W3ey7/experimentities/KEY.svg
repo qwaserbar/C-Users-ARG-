@@ -1,0 +1,14 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  
+  <rect x="10" y="10" width="80" height="60" fill="green" />
+  <text x="50" y="40" font-family="Arial" font-size="20" fill="black" text-anchor="middle">1</text>
+
+  
+  
+  <circle cx="150" cy="50" r="30" fill="red" />
+  <text x="150" y="50" font-family="Arial" font-size="20" fill="black" text-anchor="middle" alignment-baseline="middle">2</text>
+  
+  
+  <polygon points="100,150 120,180 80,180" fill="blue" />
+  <text x="100" y="165" font-family="Arial" font-size="20" fill="black" text-anchor="middle" alignment-baseline="middle">3</text>
+</svg>
