@@ -1,1 +1,3 @@
 Kilo Romeo Uniform Golf Sierra Four Two Victor Oscar November Sierra X-ray Echo Sierra Delta Bravo Oscar November Hotel Golf Six Five Charlie Quebec Mike Victor Zulu Golf Mike Three Three Sierra November Victor Sierra Whiskey India Quebec Lima Oscar Papa Foxtrot Bravo Whiskey Yankee Two Lima Quebec Oscar Romeo Uniform Hotel Echo Three Three Victor Mike Five Uniform Hotel Golf Quebec Lima Oscar Mike Romeo Delta Golf Six Three Delta Mike November Five Three X-ray Golf Victor Delta India Mike Victor Juliett Hotel Kilo Three Delta Foxtrot Oscar November Hotel Whiskey Mike Victor Delta India Mike Victor November Victor Echo Romeo Kilo Echo India Foxtrot Bravo Victor India Romeo Kilo Echo Lima Uniform X-ray Charlie Four Lima Romeo Oscar
+
+compile: decrypt-Capitalize-decryptB32
