@@ -1,4 +1,4 @@
-key:qwerty
+key:qwerty||alph:abcdefghiklmnopqrstuvwxyz
 ----------------------------
 |daxgd aagga ggfxf agaxf dg|
 ----------------------------
